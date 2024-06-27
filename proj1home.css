@@ -1,0 +1,23 @@
+/*Home Section*/
+.home-main{
+    width:100%;
+    height: 50vh;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    flex-direction: column;
+}
+
+#h1-text{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    height: 50%;
+    margin-bottom: 20px;
+
+}
+#home-main-text{
+ font-size: 100px;
+ font-family: "Bebas Neue", sans-serif;
+
+}
